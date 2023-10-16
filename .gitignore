@@ -1,0 +1,111 @@
+#Mysql Vol
+/mysql_data/
+
+# Byte-compiled / optimized
+*.py[cod]
+*$py.class
+*.pyo
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+.parts/
+sdist/
+wheels/
+share/python-wheels/
+lib/
+lib64/
+var/
+*.egg-info/
+.installed.cfg
+
+# Logs
+*.log
+
+# Databases
+*.db
+*.sqlite3
+*.sqlite3-journal
+db.sqlite3
+db.sqlite3-journal
+dump.sql
+
+# Django related
+*.pot
+__pycache__/
+media
+local_settings.py
+
+# Environments
+*.env
+.envrc
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache
+*.cache
+.cache
+*.pyc
+.pytype/
+.pyre/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.hypothesis/
+.pytest_cache/
+.pybuilder/
+.pytest_cache/
+cover/
+.nox/
+.tox/
+
+# Documentation and Reports
+docs/_build/
+*.mo
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Development tools
+pip-log.txt
+pip-delete-this-directory.txt
+Pipfile.lock
+poetry.lock
+.pdm.toml
+__pypackages__/
+celerybeat-schedule
+celerybeat.pid
+
+# Various tools/config
+*.sage.py
+.spyderproject
+.spyproject
+.ropeproject
+/site
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated
+*.swp
+*.swo
+.DS_Store
+
+# Others
+local-cdn/
+**/paperwork/
+**/node_modules/
