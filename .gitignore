@@ -1,5 +1,6 @@
 #Mysql Vol
 /mysql_data/
+/app/
 
 # Byte-compiled / optimized
 *.py[cod]
